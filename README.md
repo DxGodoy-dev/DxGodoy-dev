@@ -39,7 +39,7 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's Stats" />
-  <img src="https://github-readme-stats-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
 </p>
 
 ---
