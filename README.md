@@ -37,10 +37,9 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 ### 📊 Engineering Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal"/>
-</p>
+![Daniel's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal)
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg)
