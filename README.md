@@ -1,8 +1,20 @@
 # ⚡ Daniel Godoy | Python & Data Engineering Specialist
 
-![Bilingual](https://img.shields.io/badge/Bilingual-English%20%26%20Spanish-blue?style=for-the-badge) ![Location](https://img.shields.io/badge/Location-Zulia%2C%20VE-red?style=for-the-badge) ![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20Finance-green?style=for-the-badge)
+<p align="left">
+<img src="https://img.shields.io/badge/Bilingual-English%20%26%20Spanish-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Zulia%2C%20VE-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Finance-green?style=for-the-badge" />
+</p>
 
-I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **Process Automation**. I bridge the gap between complex datasets and functional business solutions, with a strong focus on financial systems and sports analytics.
+I'm a **Bilingual Python Developer** (19 y/o) specialized in **Data Engineering** and **Process Automation**. I bridge the gap between complex datasets and functional business solutions, with a strong focus on financial systems and sports analytics.
+
+---
+
+### 💼 What I Bring to the Table
+- **Data Engineering:** Building robust ETL pipelines with `Pandas` and `NumPy` to clean and categorize large datasets.
+- **Financial Automation:** Integration of real-time currency APIs (BCV) for payroll reconciliation and settlement systems.
+- **Performance Analysis:** Developing statistical models and rolling averages for high-stakes environments like MLB.
+- **Remote Infrastructure:** Experience managing US-based remote systems and workflows.
 
 ---
 
@@ -18,15 +30,8 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 ### 🚀 Featured Repositories
 
-* **[GASS (Global Assets Settlement System)](https://github.com/DxGodoy-dev/Global-Assets-Settlement-System-GASS)**: A high-performance financial engine that automates settlements using real-time **BCV (Central Bank of Venezuela)** API data.
+* **[GASS (Global Assets Settlement System)](https://github.com/DxGodoy-dev/Global-Assets-Settlement-System-GASS)**: A high-performance financial engine that automates settlements using real-time **BCV** API data.
 * **[MLI (Major League Insights)](https://github.com/DxGodoy-dev/Major-League-Insights-MLI)**: Advanced MLB data processor built with Pandas to generate high-level performance trends and game reports.
-
----
-
-### 🎯 My Current Focus
-- 🔭 **Working on:** Advanced audit reporting features for the GASS ecosystem.
-- 🌱 **Learning:** Deepening my knowledge in **Data Pipelines** and **Cloud Integration**.
-- 💬 **Ask me about:** Python automation, Pandas optimization, and financial data integrity.
 
 ---
 
@@ -42,7 +47,12 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 ---
 
 ### 📫 Let's Connect
-- **Email:** [godoydanielito@gmail.com](mailto:godoydanielito@gmail.com)
+<p align="left">
+<a href="mailto:godoydanielito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+- **Location:** Ciudad Ojeda, Zulia, Venezuela.
 - **Status:** Open to collaboration on Data Engineering and Automation projects.
 
 ---
