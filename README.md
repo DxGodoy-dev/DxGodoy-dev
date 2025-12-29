@@ -1,10 +1,6 @@
 # ⚡ Daniel Godoy | Python & Data Engineering Specialist
 
-<p align="left">
-<img src="https://img.shields.io/badge/Bilingual-English%20%26%20Spanish-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Zulia%2C%20VE-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Finance-green?style=for-the-badge" />
-</p>
+![Bilingual](https://img.shields.io/badge/Bilingual-English%20%26%20Spanish-blue?style=for-the-badge) ![Location](https://img.shields.io/badge/Location-Zulia%2C%20VE-red?style=for-the-badge) ![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20Finance-green?style=for-the-badge)
 
 I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **Process Automation**. I bridge the gap between complex datasets and functional business solutions, with a strong focus on financial systems and sports analytics.
 
@@ -36,14 +32,14 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 ### 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170" />
-</p>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -53,5 +49,5 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 ---
 <p align="center">
-<i>“Building efficient code to solve real-world financial and analytical challenges.”</i>
+  <i>“Building efficient code to solve real-world financial and analytical challenges.”</i>
 </p>
