@@ -1,20 +1,20 @@
-# ⚡ Daniel Godoy | Python & Data Engineering Specialist
+# ⚡ Daniel Godoy | Data Engineer & Automation Specialist
 
 <p align="left">
 <img src="https://img.shields.io/badge/Bilingual-English%20%26%20Spanish-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Zulia%2C%20VE-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Finance-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Data_Pipelines_&_Automation-orange?style=for-the-badge" />
 </p>
 
-I'm a **Bilingual Python Developer** (19 y/o) specialized in **Data Engineering** and **Process Automation**. I bridge the gap between complex datasets and functional business solutions, with a strong focus on financial systems and sports analytics.
+I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **Process Automation**. I build scalable systems that transform raw, unstructured data into actionable intelligence and automate complex workflows to maximize operational efficiency.
 
 ---
 
-### 💼 What I Bring to the Table
-- **Data Engineering:** Building robust ETL pipelines with `Pandas` and `NumPy` to clean and categorize large datasets.
-- **Financial Automation:** Integration of real-time currency APIs (BCV) for payroll reconciliation and settlement systems.
-- **Performance Analysis:** Developing statistical models and rolling averages for high-stakes environments like MLB.
-- **Remote Infrastructure:** Experience managing US-based remote systems and workflows.
+### 💼 Core Expertise (What I can do for your team)
+- **ETL & Data Pipelines:** Designing robust systems to Extract, Transform, and Load data from any source (APIs, SQL, CSV) using `Pandas` and `NumPy`.
+- **Process Automation:** Creating custom Python scripts to eliminate repetitive manual tasks, reducing human error and saving hundreds of work hours.
+- **Data Integrity & Cleaning:** Normalizing complex datasets to ensure they are accurate, structured, and ready for high-level decision-making.
+- **API & Systems Integration:** Connecting third-party services and internal tools to build seamless, automated data ecosystems.
 
 ---
 
@@ -23,26 +23,24 @@ I'm a **Bilingual Python Developer** (19 y/o) specialized in **Data Engineering*
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **Tools & Dev** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| **Engineering** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
+| **Tools & Dev** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Key Engineering Projects
 
-* **[GASS (Global Assets Settlement System)](https://github.com/DxGodoy-dev/Global-Assets-Settlement-System-GASS)**: A high-performance financial engine that automates settlements using real-time **BCV** API data.
-* **[MLI (Major League Insights)](https://github.com/DxGodoy-dev/Major-League-Insights-MLI)**: Advanced MLB data processor built with Pandas to generate high-level performance trends and game reports.
+* **[GASS (Workflow Automation)](https://github.com/DxGodoy-dev/Global-Assets-Settlement-System-GASS)**: A high-performance engine demonstrating real-time API integration and automated settlement auditing.
+* **[MLI (Advanced Data Processing)](https://github.com/DxGodoy-dev/Major-League-Insights-MLI)**: A complex system showcasing time-series analysis and automated report generation pipelines.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Engineering Stats & Activity
 
-![Daniel's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's Stats" />
+  <img src="https://github-readme-stats-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
+</p>
 
 ---
 
@@ -53,10 +51,9 @@ I'm a **Bilingual Python Developer** (19 y/o) specialized in **Data Engineering*
 <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-- **Location:** Ciudad Ojeda, Zulia, Venezuela.
-- **Status:** Open to collaboration on Data Engineering and Automation projects.
+- **Status:** Open to collaboration on Data Engineering, Backend Automation, and Python-based Remote Roles.
 
 ---
 <p align="center">
-  <i>“Building efficient code to solve real-world financial and analytical challenges.”</i>
+  <i>“Turning complex data challenges into streamlined, automated solutions.”</i>
 </p>
