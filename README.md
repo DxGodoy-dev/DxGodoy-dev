@@ -44,10 +44,6 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
   <img src="https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DxGodoy-dev/DxGodoy-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📫 Let's Connect
