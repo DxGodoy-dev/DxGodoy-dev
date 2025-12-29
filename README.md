@@ -36,8 +36,8 @@ I'm a **Bilingual Python Developer** specialized in **Data Engineering** and **P
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=DxGodoy-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DxGodoy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="Daniel's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxGodoy-dev&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
